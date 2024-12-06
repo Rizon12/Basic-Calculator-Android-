@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="hint1">Enter First Number</string>
+    <string name="hint2">Enter Second Number</string>
+    <string name="hint3">Choose any Operators:</string>
+    <string-array name="operators_array">
+        <item>Choose any operator</item>
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+    <string name="button">Calculate</string>
+    <string name="result">Result</string>
+</resources>
